@@ -1,4 +1,4 @@
-Teste de funcionalidades.
+//Teste de funcionalidades.
 
 
 /*!
