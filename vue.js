@@ -1,3 +1,6 @@
+Teste de funcionalidades.
+
+
 /*!
  * Vue.js v2.6.12
  * (c) 2014-2020 Evan You
